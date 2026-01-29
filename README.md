@@ -1,6 +1,5 @@
 # reset-password-linux
-# 🔐 Réinitialiser un mot de passe oublié sur Kali Linux  
-## Installation sur disque dur externe (`/dev/sdb1`)
+## Installation sur disque dur (`/dev/sdb1`)
 
 ---
 
